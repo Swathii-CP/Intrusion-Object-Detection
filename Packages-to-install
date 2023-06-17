@@ -63,6 +63,8 @@ $sudo reboot
  
 At this point the majority of the installation process is complete and you can now change back the Swapfile so that the CONF_SWAPSIZE = 100. 
 
+I have used the famous coco dataset for the object detection, you can use the data set u want for a much more precise detection.
+
 
 
 
