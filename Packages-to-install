@@ -1,6 +1,6 @@
 [NOTE: The lines you find "$" gives the commands that are to be typed in the terminal}  
 
-This is an in-depth procedure to follow to get your Raspberry Pi to install Open-CV that will work with Computer Vision for Object Identification. Turn on a Raspberry Pi 4 Model B running a fresh version of Raspberry Pi 'Buster' OS and connect it to the Internet.
+This is an in-depth procedure to follow to get your Raspberry Pi to install Open-CV that will work with Computer Vision for Object Identification. Turn on a Raspberry Pi 4 Model B running a fresh version of Raspberry Pi 'Buster' OS and connect it to the Internet. Buster OS is very much required.
 
 Open up the Terminal by pressing the Terminal Button found on the top left of the button. Copy and paste each command into your Pi’s terminal, press Enter, and allow it to finish before moving onto the next command. If ever prompted, “Do you want to continue? (y/n)” press Y and then the Enter key to continue the process.
 
